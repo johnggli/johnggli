@@ -24,5 +24,5 @@
 ## Test
 
 <div>
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JohnEmerson1406&theme=tokyonight)](https://git.io/streak-stats)
+  http://github-readme-streak-stats.herokuapp.com?user=JohnEmerson1406&theme=tokyonight
 </div>

@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm John Emerson</h1>
+<h1>Hello World 👋, I'm John Emerson</h1>
 
 - 🌱 I’m currently learning **Flutter, JavaScript and Ruby**
 - 📫 How to reach me **john.carv.sousa@gmail.com**
@@ -19,4 +19,10 @@
     <a href="https://discord.gg/JohnEmerson1406#0587" target="blank">
         <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="JohnEmerson1406#0587"/>
     </a>
+</div>
+  
+## Test
+
+<div>
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JohnEmerson1406&theme=tokyonight)](https://git.io/streak-stats)
 </div>

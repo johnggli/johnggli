@@ -8,7 +8,7 @@
 
 ## 𝓐𝓫𝓸𝓾𝓽 𝓜𝓮
 
-<img src="https://64.media.tumblr.com/e1f1c97123ae217eb731500e502e0083/tumblr_n9dxcikmIU1qc9zfzo7_r1_250.gif" align="right">
+<img src="https://user-images.githubusercontent.com/43749971/134238378-6ba6792b-b4ba-485c-bc13-89f18cd086dc.gif" align="right" height="220">
 
 - 🔭 I’m currently working on something cool 🚀!
 - 🌱 I’m currently learning **Flutter, React, Vue.js and Ruby on Rails**.

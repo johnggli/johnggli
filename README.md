@@ -1,4 +1,4 @@
-<h1 align="center">~⋆* 💟 🅷🅴🅻🅻🅾 🆆🅾🆁🅻🅳 💟 *⋆~</h1>
+<h1 align="center">~⋆* ☂️ 🄷🄴🄻🄻🄾 🅆🄾🅁🄻🄳 ☂️ *⋆~</h1>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/43749971/134115180-acb39488-27bf-495a-8cfe-6d71852db396.gif">

@@ -6,8 +6,6 @@
 
 <br>
 
-<h1 align="center">~⋆* ☂️ 🅰🅱🅾🆄🆃 🅼🅴 ☂️ *⋆~</h1>
-
 - 🌱 I’m currently learning **Flutter, React, Vue.js and Ruby on Rails**
 - 📫 Get in touch **john.carv.sousa@gmail.com**
 

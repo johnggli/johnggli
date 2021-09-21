@@ -10,10 +10,20 @@
 
 <img src="https://64.media.tumblr.com/e1f1c97123ae217eb731500e502e0083/tumblr_n9dxcikmIU1qc9zfzo7_r1_250.gif" align="right">
 
-- 🌱 I’m currently learning **Flutter, React, Vue.js and Ruby on Rails**
-- 📫 Get in touch **john.carv.sousa@gmail.com**
+- 🔭 I’m currently working on something cool 🚀!
+- 🌱 I’m currently learning **Flutter, React, Vue.js and Ruby on Rails**.
+- 📫 How to reach me: **john.carv.sousa@gmail.com**
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I play guitar <img alt="guitar" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/htc/37/guitar_1f3b8.png" width="16px">
 
-<br><br><br><br><br>
+<br>
+
+<p>
+  <b>
+                                          🎵 𝙄 𝙠𝙣𝙤𝙬 𝙞𝙩'𝙨 𝙝𝙖𝙧𝙙 𝙗𝙪𝙩 𝙞𝙩 🎵<br>
+                                          𝙬𝙤𝙣'𝙩 𝙬𝙤𝙧𝙠 𝙪𝙣𝙡𝙚𝙨𝙨 𝙮𝙤𝙪 𝙩𝙧𝙮
+  </b>
+</p>
 
 ## 𝓢𝓽𝓪𝓽𝓼
 

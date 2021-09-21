@@ -1,20 +1,29 @@
-<h1 align="center">~⋆* ☂️ 🄷🄴🄻🄻🄾 🅆🄾🅁🄻🄳 ☂️ *⋆~</h1>
+<h1 align="center">~⋆* ✨ 🄷🄴🄻🄻🄾 🅆🄾🅁🄻🄳 ✨ *⋆~</h1>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/43749971/134115180-acb39488-27bf-495a-8cfe-6d71852db396.gif">
 </div>
 
-<br>
+<p align="center">𝙎𝙝𝙞𝙣𝙮 𝙨𝙬𝙤𝙧𝙙 𝙢𝙮 𝙙𝙞𝙖𝙢𝙤𝙣𝙙</p>
+
+## 𝓐𝓫𝓸𝓾𝓽 𝓜𝓮
+
+<img src="https://64.media.tumblr.com/e1f1c97123ae217eb731500e502e0083/tumblr_n9dxcikmIU1qc9zfzo7_r1_250.gif" align="right">
 
 - 🌱 I’m currently learning **Flutter, React, Vue.js and Ruby on Rails**
 - 📫 Get in touch **john.carv.sousa@gmail.com**
 
+<br><br><br><br><br>
+
+## 𝓢𝓽𝓪𝓽𝓼
+
 <div>
-  <a href="https://github.com/JohnEmerson1406">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JohnEmerson1406&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnEmerson1406&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JohnEmerson1406&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnEmerson1406&layout=compact&langs_count=7&theme=tokyonight">
 </div>
-<br>
+
+## 𝓢𝓴𝓲𝓵𝓵𝓼
+
 <div style="display: inline_block">
   <img align="center" alt="John-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
   <img align="center" alt="John-Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
@@ -26,7 +35,7 @@
   <img align="center" alt="John-Rails" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg">
 </div>
 
-#
+## 𝓒𝓸𝓷𝓽𝓪𝓬𝓽
 
 <div>
   <a href="https://www.linkedin.com/in/JohnEmerson1406/" target="_blank">

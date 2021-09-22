@@ -12,8 +12,8 @@
 
 <ul>
   <li>🔭 I’m currently working on something cool 🚀!</li>
-  <li>🌱 I’m currently learning **Flutter, React, Vue.js</li>
-  <li>📫 How to reach me: <a href="mailto:john.carv.sousa@gmail.com">john.carv.sousa@gmail.com</a></li>
+  <li>🌱 I’m currently learning <b>Flutter, React, Vue.js and Ruby on Rails</b>.</li>
+  <li>📫 How to reach me: <b><a href="mailto:john.carv.sousa@gmail.com">john.carv.sousa@gmail.com</a></b></li>
   <li>😄 Pronouns: He/Him</li>
   <li>⚡ Fun fact: I play guitar <img alt="guitar" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/htc/37/guitar_1f3b8.png" width="16px"></li>
 </ul>
@@ -51,15 +51,15 @@
 
 <div>
   <a href="https://www.linkedin.com/in/JohnEmerson1406/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://instagram.com/JohnEmerson1406" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+  <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
   <a href="https://discord.gg/JohnEmerson1406#0587" target="blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="JohnEmerson1406#0587">
+  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="JohnEmerson1406#0587">
   </a>
   <a href="mailto:john.carv.sousa@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
 </div>

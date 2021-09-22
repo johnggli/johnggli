@@ -6,15 +6,17 @@
 
 <p align="center">🎵 𝙎𝙝𝙞𝙣𝙮 𝙨𝙬𝙤𝙧𝙙 𝙢𝙮 𝙙𝙞𝙖𝙢𝙤𝙣𝙙 🎵</p>
 
-## 𝓐𝓫𝓸𝓾𝓽 𝓜𝓮
+<h2>𝓐𝓫𝓸𝓾𝓽 𝓜𝓮</h2>
 
 <img src="https://user-images.githubusercontent.com/43749971/134393227-26ca48dc-c446-4d55-93d0-5ff4deeb4977.gif" align="right" height="220">
 
-- 🔭 I’m currently working on something cool 🚀!
-- 🌱 I’m currently learning **Flutter, React, Vue.js and Ruby on Rails**.
-- 📫 How to reach me: **john.carv.sousa@gmail.com**
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I play guitar <img alt="guitar" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/htc/37/guitar_1f3b8.png" width="16px">
+<ul>
+  <li>🔭 I’m currently working on something cool 🚀!</li>
+  <li>🌱 I’m currently learning **Flutter, React, Vue.js</li>
+  <li>📫 How to reach me: <a href="mailto:john.carv.sousa@gmail.com">john.carv.sousa@gmail.com</a></li>
+  <li>😄 Pronouns: He/Him</li>
+  <li>⚡ Fun fact: I play guitar <img alt="guitar" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/htc/37/guitar_1f3b8.png" width="16px"></li>
+</ul>
 
 <br>
 
@@ -25,14 +27,14 @@
   </b>
 </p>
 
-## 𝓢𝓽𝓪𝓽𝓼
+<h2>𝓢𝓽𝓪𝓽𝓼</h2>
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JohnEmerson1406&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnEmerson1406&layout=compact&langs_count=7&theme=tokyonight">
 </div>
 
-## 𝓢𝓴𝓲𝓵𝓵𝓼
+<h2>𝓢𝓴𝓲𝓵𝓵𝓼</h2>
 
 <div style="display: inline_block">
   <img align="center" alt="John-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
@@ -45,7 +47,7 @@
   <img align="center" alt="John-Rails" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg">
 </div>
 
-## 𝓒𝓸𝓷𝓽𝓪𝓬𝓽
+<h2>𝓒𝓸𝓷𝓽𝓪𝓬𝓽</h2>
 
 <div>
   <a href="https://www.linkedin.com/in/JohnEmerson1406/" target="_blank">

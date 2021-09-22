@@ -4,11 +4,11 @@
   <img src="https://user-images.githubusercontent.com/43749971/134115180-acb39488-27bf-495a-8cfe-6d71852db396.gif">
 </div>
 
-<p align="center">𝙎𝙝𝙞𝙣𝙮 𝙨𝙬𝙤𝙧𝙙 𝙢𝙮 𝙙𝙞𝙖𝙢𝙤𝙣𝙙</p>
+<p align="center">🎵 𝙎𝙝𝙞𝙣𝙮 𝙨𝙬𝙤𝙧𝙙 𝙢𝙮 𝙙𝙞𝙖𝙢𝙤𝙣𝙙 🎵</p>
 
 ## 𝓐𝓫𝓸𝓾𝓽 𝓜𝓮
 
-<img src="https://user-images.githubusercontent.com/43749971/134238378-6ba6792b-b4ba-485c-bc13-89f18cd086dc.gif" align="right" height="220">
+<img src="https://user-images.githubusercontent.com/43749971/134393227-26ca48dc-c446-4d55-93d0-5ff4deeb4977.gif" align="right" height="220">
 
 - 🔭 I’m currently working on something cool 🚀!
 - 🌱 I’m currently learning **Flutter, React, Vue.js and Ruby on Rails**.

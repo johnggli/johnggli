@@ -1,4 +1,4 @@
-<h1 align="center">~⋆* ✨ 🄷🄴🄻🄻🄾 🅆🄾🅁🄻🄳 ✨ *⋆~</h1>
+<h1 align="center">~⋆* ✨ 𝐻𝑒𝓁𝓁𝑜 𝒲𝑜𝓇𝓁𝒹 ✨ *⋆~</h1>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/43749971/134115180-acb39488-27bf-495a-8cfe-6d71852db396.gif">
@@ -6,7 +6,7 @@
 
 <p align="center">🎵 𝙎𝙝𝙞𝙣𝙮 𝙨𝙬𝙤𝙧𝙙 𝙢𝙮 𝙙𝙞𝙖𝙢𝙤𝙣𝙙 🎵</p>
 
-<h2>𝓐𝓫𝓸𝓾𝓽 𝓜𝓮</h2>
+<h2>𝒜𝒷𝑜𝓊𝓉 𝑀𝑒</h2>
 
 <img src="https://user-images.githubusercontent.com/43749971/134393227-26ca48dc-c446-4d55-93d0-5ff4deeb4977.gif" align="right" height="220">
 
@@ -25,14 +25,14 @@
   𝙬𝙤𝙣'𝙩 𝙬𝙤𝙧𝙠 𝙪𝙣𝙡𝙚𝙨𝙨 𝙮𝙤𝙪 𝙩𝙧𝙮
 </p>
 
-<h2>𝓢𝓽𝓪𝓽𝓼</h2>
+<h2>𝒮𝓉𝒶𝓉𝓈</h2>
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JohnEmerson1406&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnEmerson1406&layout=compact&langs_count=7&theme=tokyonight">
 </div>
 
-<h2>𝓢𝓴𝓲𝓵𝓵𝓼</h2>
+<h2>𝒯𝑒𝒸𝒽𝓃𝑜𝓁𝑜𝑔𝒾𝑒𝓈 𝒶𝓃𝒹 𝒯𝑜𝑜𝓁𝓈</h2>
 
 <div style="display: inline_block">
   <img align="center" alt="John-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
@@ -45,7 +45,7 @@
   <img align="center" alt="John-Rails" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg">
 </div>
 
-<h2>𝓒𝓸𝓷𝓽𝓪𝓬𝓽</h2>
+<h2>𝒞𝑜𝓃𝓉𝒶𝒸𝓉</h2>
 
 <div>
   <a href="https://www.linkedin.com/in/JohnEmerson1406/" target="_blank">

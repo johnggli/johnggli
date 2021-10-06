@@ -1,7 +1,7 @@
 <h1 align="center">~⋆* ✨ 𝐻𝑒𝓁𝓁𝑜 𝒲𝑜𝓇𝓁𝒹 ✨ *⋆~</h1>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/43749971/134115180-acb39488-27bf-495a-8cfe-6d71852db396.gif">
+  <img src="https://user-images.githubusercontent.com/43749971/136288459-f3aff8e3-5f7b-41ef-abb1-cbb2483adb51.gif">
 </div>
 
 <p align="center">🎵 𝙎𝙝𝙞𝙣𝙮 𝙨𝙬𝙤𝙧𝙙 𝙢𝙮 𝙙𝙞𝙖𝙢𝙤𝙣𝙙 🎵</p>

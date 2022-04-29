@@ -28,8 +28,8 @@
 <h2>𝑆𝑡𝑎𝑡𝑠</h2>
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=johecarv&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johecarv&layout=compact&langs_count=8&hide=css,html&theme=tokyonight">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jchn146&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jchn146&layout=compact&langs_count=8&hide=css,html&theme=tokyonight">
 </div>
 
 <h2>𝑇𝑒𝑐ℎ𝑛𝑜𝑙𝑜𝑔𝑖𝑒𝑠 𝑎𝑛𝑑 𝑇𝑜𝑜𝑙𝑠</h2>
@@ -48,14 +48,14 @@
 <h2>𝐶𝑜𝑛𝑡𝑎𝑐𝑡</h2>
 
 <div>
-  <a href="https://www.linkedin.com/in/johecarv/" target="_blank">
+  <a href="https://www.linkedin.com/in/jchn146/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://instagram.com/johecarv" target="_blank">
+  <a href="https://instagram.com/jchn146" target="_blank">
   <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
-  <a href="https://discord.gg/johecarv#0587" target="blank">
-  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="JohnEmerson1406#0587">
+  <a href="https://discord.gg/jchn146#0587" target="blank">
+  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="jchn146#0587">
   </a>
   <a href="mailto:john.carv.sousa@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">

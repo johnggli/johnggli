@@ -1,4 +1,4 @@
-<h1 align="center">~⋆* ✨ 𝐻𝑒𝑙𝑙𝑜 𝑊𝑜𝑟𝑙𝑑 ✨ *⋆~</h1>
+<h1 align="center">◦•●ミ⭐ 𝘏𝘦𝘭𝘭𝘰 𝘞𝘰𝘳𝘭𝘥 ⭐彡●•◦</h1>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/43749971/136463873-3d846b12-3fec-49e6-945a-514edbd146af.gif">
@@ -28,8 +28,8 @@
 <h2>𝑆𝑡𝑎𝑡𝑠</h2>
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=johnggli&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnggli&layout=compact&langs_count=8&hide=css,html&theme=tokyonight">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=johnggli&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnggli&layout=compact&theme=github_dark&hide_border=true&hide=css,html&langs_count=8">
 </div>
 
 <h2>𝑇𝑒𝑐ℎ𝑛𝑜𝑙𝑜𝑔𝑖𝑒𝑠 𝑎𝑛𝑑 𝑇𝑜𝑜𝑙𝑠</h2>

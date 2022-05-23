@@ -1,14 +1,8 @@
-<h1 align="center">◦•●ミ⭐ 𝘏𝘦𝘭𝘭𝘰 𝘞𝘰𝘳𝘭𝘥 ⭐彡●•◦</h1>
-
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/43749971/136463873-3d846b12-3fec-49e6-945a-514edbd146af.gif">
+  <img src="https://user-images.githubusercontent.com/43749971/169892385-71cec431-4ce1-417a-a7b6-e14d8c51c1a3.png">
 </div>
 
-<p align="center">🎵 𝙎𝙝𝙞𝙣𝙮 𝙨𝙬𝙤𝙧𝙙 𝙢𝙮 𝙙𝙞𝙖𝙢𝙤𝙣𝙙 🎵</p>
-
 <h2>𝐴𝑏𝑜𝑢𝑡 𝑀𝑒</h2>
-
-<img src="https://user-images.githubusercontent.com/43749971/134393227-26ca48dc-c446-4d55-93d0-5ff4deeb4977.gif" align="right" height="220">
 
 <ul>
   <li>🔭 I’m currently working on something cool 🚀!</li>

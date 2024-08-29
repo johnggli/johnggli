@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/43749971/169892385-71cec431-4ce1-417a-a7b6-e14d8c51c1a3.png">
+  <img src="https://github.com/user-attachments/assets/4eff9851-b60b-459a-aaa8-6a8551564c8f">
 </div>
 
 <h2>𝐴𝑏𝑜𝑢𝑡 𝑀𝑒</h2>
@@ -9,7 +9,7 @@
   <li>🌱 I’m currently learning <b>Flutter, React, Vue.js and Ruby on Rails</b>.</li>
   <li>📫 How to reach me: <b><a href="mailto:john.carv.sousa@gmail.com">john.carv.sousa@gmail.com</a></b></li>
   <li>😄 Pronouns: He/Him</li>
-  <li>⚡ Fun fact: I play guitar <img alt="guitar" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/htc/37/guitar_1f3b8.png" width="16px"></li>
+  <li>⚡ Fun fact: I play guitar</li>
 </ul>
 
 <br>
@@ -46,12 +46,12 @@
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://instagram.com/johnggli" target="_blank">
-  <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+  <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
-  <a href="https://discord.gg/johnggli#0587" target="blank">
-  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="jchn146#0587">
+  <a href="https://discord.gg/johnggli" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
   </a>
-  <a href="mailto:john.carv.sousa@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  <a href="mailto:john.carv.sousa@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </div>
